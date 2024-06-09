@@ -98,7 +98,7 @@ bun run dev
 ## Deployment
 
 ### Automatic Deployment
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/HaidongPang/registry-proxy)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/nowanti/registry-proxy)
 
 - fork this project
 - modify the link of the above button to your fork url
